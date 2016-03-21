@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\LaserDefender\Assets\Entities\Player\PlayerController.cs">
+    <Files>
+      <File FileName="..\LaserDefender\Assets\Scripts\Position.cs" Line="9" Column="49" />
+      <File FileName="..\LaserDefender\Assets\Entities\Player\PlayerController.cs" Line="34" Column="30" />
+      <File FileName="..\LaserDefender\Assets\Entities\Enemies\FormationController.cs" Line="36" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
